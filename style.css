@@ -1,0 +1,27 @@
+.body{
+  background-color:rgba(200, 10, 3, 0.7);
+  width:50%;
+  margin:0 auto;
+  text-align:center;
+  
+}
+#karla{
+  color:pink;
+  font-style:italic;
+  font-family:arial;
+  font-weight:bolder;
+  text-transform:uppercase;
+  
+}
+
+P{
+  color:blue;
+  text-transform:capitalize;
+}
+
+.kiro{
+  font-family:helvetica;
+  color:orange;
+  font-style:bold;
+  text-transform:capitalize;
+}
